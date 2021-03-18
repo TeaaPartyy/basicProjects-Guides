@@ -1,0 +1,94 @@
+html,
+body {
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  font-family: Helvetica, sans-serif;
+  font-size: 100%;
+}
+
+a {
+  color: #ee6123;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 2.9em;
+  line-height: 350px;
+  text-align: center;
+  position: relative;
+  margin-bottom: -80px;
+}
+
+h2 {
+  color: rgb(37, 36, 36);
+  text-align: center;
+  line-height: 0px;
+}
+
+.hello {
+  margin-top: -40px;
+  background-image: url("pictures/computer.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: auto;
+  height: 500px;
+  background-size: cover;
+  box-shadow: 5px 5px 5px 0 rgba(4, 16, 124, 0.4);
+}
+
+input[type="url"] {
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px 0 rgb(0, 0, 0, 0.4);
+  padding: 17px 30px;
+  border: none;
+  width: 50%;
+  font-size: 1.3em;
+}
+
+input[type="submit"] {
+  cursor: pointer;
+  padding: 17px 30px;
+  font-size: 1.3em;
+  border: none;
+  border-radius: 3px;
+  background: #ee6123;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 700;
+  box-shadow: 2px 2px 2px 0 rgb(0, 0, 0, 0.4);
+}
+
+.hello form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#result {
+  margin-top: 30px;
+  text-align: center;
+  color: rgb(7, 7, 7);
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 30px;
+  display: inline-block;
+  margin: 20px;
+  font: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+footer #logo {
+  height: 90px;
+}
+footer {
+  text-align: center;
+  padding: 50px;
+}
