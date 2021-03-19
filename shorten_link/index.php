@@ -92,7 +92,7 @@ if (isset($_POST['url'])) {
         <img src="pictures/logo.png" alt="logo" id="logo"><br>
         Free Source Project <br>
         Developped by Hamza Slaoui <br>
-        <a href="https://www.linkedin.com/in/slaouihabibhamza/">Contact</a> <a href="https://github.com/TeaaPartyy/Shorten_links">Source Code</a>
+        <a href="https://www.linkedin.com/in/slaouihabibhamza/">Contact</a> <a href="https://github.com/TeaaPartyy/basicProjectsAndGuides/tree/main/shorten_link">Source Code</a>
     </footer>
 </body>
 
